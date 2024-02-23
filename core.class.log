@@ -1,0 +1,97 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56953201516@s.whatsapp.net',
+    fromMe: false,
+    id: 'F98C50F5188BB454D3F0A0C1B683160B',
+    participant: undefined
+  },
+  messageTimestamp: 1708704474,
+  pushName: 'PromoConnect⚖️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56953201516'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e49b0c01-8831-4c2f-b093-c778990dcf98',
+  keyword: 'key_9a435ff7-a975-4185-a143-89c35bb4995d',
+  answer: '👨‍⚕️💖 ¡Bienvenido a Beclinic! Descubre nuestras opciones de tratamiento.',
+  options: {
+    media: 'bien.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '297bf79d0a6b582721f957e364f2a988'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6fe1ba0a-8b88-43e2-a2f3-7ecda7b7ae0d',
+  keyword: 'ans_e49b0c01-8831-4c2f-b093-c778990dcf98',
+  answer: '1️⃣ Agendar evaluación gratuita.\n' +
+    '2️⃣ Criolipólisis: Eliminación de grasa localizada.\n' +
+    '3️⃣ Velashape: Adiós a la celulitis.\n' +
+    '4️⃣ MEP: Tratamiento para estrías.\n' +
+    '5️⃣ Tratamientos faciales: ¡Cuida tu rostro!\n' +
+    '6️⃣ Depilación láser: Olvídate del vello.\n' +
+    '7️⃣ Solárium de Colágeno.\n' +
+    '8️⃣ Otro: Hablar con un especialista\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a4cbe866704b81abeeb919e86a21398'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_11a0cb11-81ec-43d2-9925-41176d1bb266',
+  keyword: 'ans_6fe1ba0a-8b88-43e2-a2f3-7ecda7b7ae0d',
+  answer: 'Para obtener información detallada sobre cada tratamiento, por favor, envía el número correspondiente. (Para volver a mostrar el menu escribe *Menu*\n' +
+    '\n' +
+    '¡Estamos aquí para ayudarte! 💆‍♀️💆‍♂️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ced8b5332fd57d9277159c3692c00277'
+}
